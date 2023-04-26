@@ -19,7 +19,7 @@
             {
                 Console.Write("Введите строку: ");
                 string? str = Console.ReadLine();
-                bool equal = false;                 // равенство элементов
+                bool isEqual = false;               // равенство элементов
                 int match = 0;                      // количество совпадений
                 int maxDiffr = 0;                   // неодинаковые символы
                 
@@ -42,11 +42,11 @@
                                 {
                                     // Проверка на совпадение с ранее совпавшими 
                                     // элементами.
-                                    if (str[j] == matches[k]) equal = true;
+                                    if (str[j] == matches[k]) isEqual = true;
                                 }
-                                if (!equal) matches = Add(str[j], matches);
+                                if (!isEqual) matches = Add(str[j], matches);
                             }
-                            equal = false;      // сброс для следующего сравнения
+                            isEqual = false;      // сброс для следующего сравнения
                         }
                     }
                     if (matches.Length == 1)

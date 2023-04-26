@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\al198\\source\\repos\\PracticalTask0\\PracticalTask0\\PracticalTask0.csproj",
+      "projectUniqueName": "C:\\Users\\al198\\Practical_task_0\\PracticalTask0\\PracticalTask0\\PracticalTask0.csproj",
       "projectName": "PracticalTask0",
-      "projectPath": "C:\\Users\\al198\\source\\repos\\PracticalTask0\\PracticalTask0\\PracticalTask0.csproj",
+      "projectPath": "C:\\Users\\al198\\Practical_task_0\\PracticalTask0\\PracticalTask0\\PracticalTask0.csproj",
       "packagesPath": "C:\\Users\\al198\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\al198\\source\\repos\\PracticalTask0\\PracticalTask0\\obj\\",
+      "outputPath": "C:\\Users\\al198\\Practical_task_0\\PracticalTask0\\PracticalTask0\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\al198\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
